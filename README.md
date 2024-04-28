@@ -1,6 +1,9 @@
 Hello, I'm X the Mystic.
 
 A photo:
+
+
+
 ![Logo](https://i.imgur.com/PyKLAe7.png)
 
 My Interests:
