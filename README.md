@@ -1,12 +1,5 @@
 Hello, I'm X the Mystic.
 
-A photo:
-
-
-
-![Logo](https://i.imgur.com/PyKLAe7.png)
-
-
 
 I'm interested in seq2seq deep learning, and developing information traffic control, or, as I like to call it "complete dominion of all those lusers".
 
