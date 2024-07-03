@@ -8,7 +8,7 @@ I'm busy on exploit development and cybersecurity compromization.
 I've been working mostly on a collection of modern redteam tools called Ex Machina.
 Oh, and I have been developing a LLM translation machine.
 
-Have a good terrestrial rotation.
+## Have a good terrestrial rotation.
 
 
 
