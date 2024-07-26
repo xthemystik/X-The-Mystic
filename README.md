@@ -5,8 +5,7 @@ I may or may not respond.
 # My Code and Stuff.
 
 I'm busy on exploit development and cybersecurity compromization.
-I've been working mostly on a collection of modern redteam tools called Ex Machina.
-Oh, and I have been developing a LLM translation machine.
+I've been working mostly on a collection of modern redteam tools called X Machina.
 
 ## Have a good terrestrial rotation.
 
