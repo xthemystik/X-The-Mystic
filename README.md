@@ -5,7 +5,7 @@ I may or may not respond.
 # My Code and Stuff.
 
 I'm busy on exploit development and cybersecurity compromization, along with overall sofware development.
-I've been working mostly on a collection of modern redteam tools called xframe, as well as a new language.
+I've been working mostly on a collection of modern redteam tools called xframe, as well as a MLP architecture for large data filtering.
 
 ## Have a good terrestrial rotation.
 
